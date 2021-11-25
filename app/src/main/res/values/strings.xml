@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">VamosRachar</string>
+    <string name="titulo_principal">Você está no Racha Aí!</string>
+    <string name="racha_ai">Racha Aí!</string>
+    <string name="insira_valor">Insira ao campo ao lado o valor a ser rachado</string>
+    <string name="insira_pessoas">Insira no campo ao lado o número de pessoas</string>
+    <string name="comp_result">Compartilhar resultado</string>
+    <string name="dizer_result">Dizer resultado em voz alta</string>
+    <string name="resultado">R$0,00</string>
+    <string name="valor_cada_pessoa">Valor para cada pessoa</string>
+    <string name="campo_valor">0.00</string>
+    <string name="campo_pessoas">2</string>
 </resources>
